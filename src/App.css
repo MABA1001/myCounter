@@ -1,0 +1,10 @@
+body{
+    background: url('https://img.freepik.com/free-photo/top-view-chalk-board_1921-156.jpg?w=1380&t=st=1690193043~exp=1690193643~hmac=1579393a6c1a4936de27f8aeb47107564ba262b422a96cf4ece9e115f5fabc86');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0.6;
+}
